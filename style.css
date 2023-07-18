@@ -1,1 +1,32 @@
+h2 {
+  color: brown;
+  font-weight: bolder;
+}
 
+h1 {
+  text-align: center;
+  color: indigo;
+  font-weight: bolder;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+footer {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+h3 {
+  color: blue;
+  font-weight: bolder;
+}
+
+.Main {
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+}
